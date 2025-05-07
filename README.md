@@ -149,9 +149,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Flutter team for the cross-platform framework
 - Firebase team for the backend services
 - The open-source community for various tools and libraries
-
-## 📧 Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
-
-Project Link: [https://github.com/yourusername/flutter_ai_app](https://github.com/yourusername/flutter_ai_app) 
